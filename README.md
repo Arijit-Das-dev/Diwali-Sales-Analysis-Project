@@ -48,3 +48,5 @@ This project enhanced my skills in data analysis, visualization, and professiona
 
 **Tools & Technologies:**
 Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/arijit-das-b912842a0)
