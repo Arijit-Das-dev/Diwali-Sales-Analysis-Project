@@ -1,4 +1,4 @@
-# Diwali-Sales-Analysis-Project
+# Diwali-Sales-Analysis-Project-PYTHON
 
 In this project, I performed an end-to-end analysis of festive sales data to uncover business-driven insights and demonstrate how data can guide strategic decision-making.
 
